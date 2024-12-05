@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--![shakugan-no-shana-shana](https://github.com/user-attachments/assets/2cb583d8-5ffe-4d60-89a5-5e06687d1a5d)
+![shakugan-no-shana-shana](https://github.com/user-attachments/assets/2cb583d8-5ffe-4d60-89a5-5e06687d1a5d)
 
 **OkitaSoujiRYN/OkitaSoujiRYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
